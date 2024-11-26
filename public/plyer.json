@@ -1,0 +1,135 @@
+[
+  {
+    "plyer_id": 1,
+    "cover_image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+    "profile_image": "https://wallpapers.com/images/featured/virat-kohli-pictures-yc8dfpcjssp3s4se.jpg",
+    "player_name": "Virat Kohli",
+    "player_country": "India",
+    "player_position": "Top Order Batsman",
+    "player_rating": 95,
+    "batting_style": "Right-handed",
+    "player_rate": 250000
+  },
+  {
+    "plyer_id": 2,
+    "cover_image": "https://www.hindustantimes.com/ht-img/img/2024/10/03/550x309/India-Cricket-WCup-112_1698557941360_1727929417180.jpg",
+    "profile_image": "https://www.aljazeera.com/wp-content/uploads/2024/03/AP23116421466279-1711875056.jpg?resize=1800%2C1800",
+    "player_name": "Babar Azam",
+    "player_country": "Pakistan",
+    "player_position": "Top Order Batsman",
+    "player_rating": 94,
+    "batting_style": "Right-handed",
+    "player_rate": 230000
+  },
+  {
+    "plyer_id": 10,
+    "cover_image": "https://www.bssnews.net/assets/news_photos/2024/06/19/image-195677-1718784020.jpg",
+    "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNfNJqVf_tqkVOJO6L6q0nXz105DImT4o6Rw&s",
+    "player_name": "Kane Williamson",
+    "player_country": "New Zealand",
+    "player_position": "Top Order Batsman",
+    "player_rating": 92,
+    "batting_style": "Right-handed",
+    "player_rate": 220000
+  },
+  {
+    "plyer_id": 3,
+    "cover_image": "https://c.ndtvimg.com/2024-07/aps5rrsg_ben-stokes-afp_625x300_11_July_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605",
+    "profile_image": "https://i0.wp.com/crictoday.com/wp-content/uploads/2023/02/ben-stokes-3-1-NOW.jpg?ssl=1",
+    "player_name": "Ben Stokes",
+    "player_country": "England",
+    "player_position": "All-rounder",
+    "player_rating": 90,
+    "batting_style": "Left-handed",
+    "player_rate": 240000
+  },
+  {
+    "plyer_id": 4,
+    "cover_image": "https://media.sportstiger.com/media/quinton-de-kock-1700197834548-original.jpg",
+    "profile_image": "https://api.bdcrictime.com/Profile/quinton-de-kock-09_10_2023.jpg",
+    "player_name": "Quinton de Kock",
+    "player_country": "South Africa",
+    "player_position": "Wicket Keeper",
+    "player_rating": 89,
+    "batting_style": "Left-handed",
+    "player_rate": 210000
+  },
+  {
+    "plyer_id": 5,
+    "cover_image": "https://onecricketnews.akamaized.net/parth-editor/oc-dashboard/news-images-prod/1707837858139_davididiwww.jpeg",
+    "profile_image": "https://m.media-amazon.com/images/M/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+    "player_name": "David Warner",
+    "player_country": "Australia",
+    "player_position": "Opening Batsman",
+    "player_rating": 88,
+    "batting_style": "Left-handed",
+    "player_rate": 200000
+  },
+  {
+    "plyer_id": 6,
+    "cover_image": "https://api.bdcrictime.com/jasprit-bumrahtdg-09_07_2024.jpg",
+    "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu8uv52ZiwjgKovGu9sJHnkmEfH8zslpqn7A&s",
+    "player_name": "Jasprit Bumrah",
+    "player_country": "India",
+    "player_position": "Fast Bowler",
+    "player_rating": 93,
+    "batting_style": "Right-handed",
+    "player_rate": 240000
+  },
+  {
+    "plyer_id": 7,
+    "cover_image": "https://c.cricketpakistan.com.pk/images/posts/cover_1729753779FotoJet---2024-10-24T120839.497.jpg",
+    "profile_image": "https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2019/05/24/d4486565-cf94-45ce-9642-a7340e2304ff/kagisorabada",
+    "player_name": "Kagiso Rabada",
+    "player_country": "South Africa",
+    "player_position": "Fast Bowler",
+    "player_rating": 90,
+    "batting_style": "Right-handed",
+    "player_rate": 220000
+  },
+  {
+    "plyer_id": 8,
+    "cover_image": "https://thegodofsports.com/wp-content/uploads/2024/08/andre-russell-rests-for-west-indies-t20is-against-south-africa.jpg",
+    "profile_image": "https://s.ndtvimg.com/images/entities/300/andre-russell-1536.png",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "player_position": "All-rounder",
+    "player_rating": 86,
+    "batting_style": "Right-handed",
+    "player_rate": 190000
+  },
+  {
+    "plyer_id": 9,
+    "cover_image": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-05-31_at_03.20.46.jpg?v=1717106353",
+    "profile_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-mv6PNNE1WA9XyrIOlrZBaRxIqxfZwivtmQ&s",
+    "player_name": "Pat Cummins",
+    "player_country": "Australia",
+    "player_position": "Fast Bowler",
+    "player_rating": 91,
+    "batting_style": "Right-handed",
+    "player_rate": 230000
+  },
+  {
+    "plyer_id": 11,
+    "cover_image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/10/shakib-al-hasan-1572328452.jpg", 
+    "profile_image": "https://th.bing.com/th/id/OIP.1woF0YCC50Vf36Xksst6JgHaEK?rs=1&pid=ImgDetMain",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_position": "All-rounder",
+    "player_rating": 93,
+    "batting_style": "Left-handed",
+    "player_rate": 250000
+  },
+  {
+    "plyer_id": 12,
+    "cover_image": "https://xtratime.in/wp-content/uploads/2018/09/Bangladesh.png", 
+    "profile_image": "https://api.bdcrictime.com/Profile/mahmudullah-06_10_2023.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_position": "Middle Order Batsman",
+    "player_rating": 85,
+    "batting_style": "Right-handed",
+    "player_rate": 180000
+  }
+  
+]
